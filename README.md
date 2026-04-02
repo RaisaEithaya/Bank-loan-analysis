@@ -1,6 +1,6 @@
-#Bank Loan Analysis Dashboard
+# Bank Loan Analysis Dashboard
 
-##Business Problem Statement
+## Business Problem Statement
 
 A financial institution aims to gain deeper insights into its loan portfolio to improve decision-making, enhance risk management, and optimize lending strategies. The management team has observed fluctuations in loan applications, funded amounts, repayment behavior, and borrower profiles across different regions and customer segments.
 
@@ -13,7 +13,7 @@ Currently, the organization lacks a centralized and interactive system to monito
 
 ---
 
-##Project Overview
+## Project Overview
 
 This project focuses on analyzing loan data using:
 
@@ -25,7 +25,7 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas)
 - PostgreSQL (SQL)
@@ -34,14 +34,14 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 
 ---
 
-##Project Workflow
+## Project Workflow
 
-###1. Data Preparation (Python)
+### 1. Data Preparation (Python)
 - Cleaned raw dataset
 - Standardized formats
 - Performed initial validation
 
-###2. Data Storage & Analysis (SQL - PostgreSQL)
+### 2. Data Storage & Analysis (SQL - PostgreSQL)
 - Imported processed data into PostgreSQL
 - Created structured tables
 - Wrote queries to analyze:
@@ -49,7 +49,7 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
   - Borrower segmentation
   - Risk categories
 
-###3. Data Visualization (Power BI)
+### 3. Data Visualization (Power BI)
 - Connected Power BI to PostgreSQL
 - Built interactive dashboards
 - Designed KPI cards and charts
@@ -58,7 +58,7 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 
 ##Dashboards
 
-###Dashboard 1: Summary
+### Dashboard 1: Summary
 - Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
@@ -70,7 +70,7 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 
 ---
 
-###Dashboard 2: Overview
+### Dashboard 2: Overview
 - Monthly Trends (Line Chart)
 - Regional Analysis (Map)
 - Employee work Term Distribution (Donut Chart)
@@ -80,13 +80,13 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 
 ---
 
-###Dashboard 3: Details
+### Dashboard 3: Details
 - Grid view of all loan records
 - Detailed borrower and loan-level insights
 
 ---
 
-##Key Insights
+## Key Insights
 
 - Identified trends in loan applications over time  
 - Analyzed differences between **Good Loans vs Bad Loans**  
@@ -95,7 +95,7 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 
 ---
 
-##Deliverables
+## Deliverables
 
 - Cleaned dataset (Python)
 - SQL queries (PostgreSQL)
@@ -104,7 +104,7 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 
 ---
 
-##Project Structure
+## Project Structure
 
 bank-loan-analysis  
 │  

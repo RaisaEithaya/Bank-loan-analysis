@@ -109,7 +109,7 @@ The final output is a **multi-page Power BI dashboard** providing insights into 
 bank-loan-analysis  
 │  
 ├── data  
-│   └── financial_loan.csv  
+│   └── financial_loan.xlsx 
 │  
 ├── python_scripts  
 │   └── BankLoanAnalysis.py  
